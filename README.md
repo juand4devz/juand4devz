@@ -13,7 +13,7 @@
 - 🌱 Currently learning **TypeScript, React, Next.js, Laravel, Tailwind CSS, Python, and various NPM packages**  
 - 💻 Exploring backend technologies like **Express.js, MongoDB, PostgreSQL, MySQL, Firebase, and PHP frameworks**  
 - 🚀 Passionate about building intuitive, scalable, and modern web applications  
-- 💬 Ask me about **Frontend & Backend Development, Laravel, TypeScript, and Python**  
+- 💬 Ask me about **Frontend & Backend Development, Next.js, Laravel, TypeScript, Python and more**  
 - 📫 Reach me at **jxuand3@gmail.com**  
 - ⚡ Fun fact: **Debugging feels faster with a cup of coffee ☕**
 
