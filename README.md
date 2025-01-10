@@ -11,7 +11,7 @@
 - 🎓 **Student and aspiring Fullstack Web Developer**  
 - 🔭 Working on **Expert System for Laptop Damage Diagnosis (Dempster-Shafer Method)**  
 - 🌱 Currently learning **TypeScript, React, Next.js, Laravel, Tailwind CSS, Python, and various NPM packages**  
-- 💻 Exploring backend technologies like **Express.js, MongoDB, PostgreSQL, Firebase, and PHP frameworks**  
+- 💻 Exploring backend technologies like **Express.js, MongoDB, PostgreSQL, MySQL, Firebase, and PHP frameworks**  
 - 🚀 Passionate about building intuitive, scalable, and modern web applications  
 - 💬 Ask me about **Frontend & Backend Development, Laravel, TypeScript, and Python**  
 - 📫 Reach me at **jxuand3@gmail.com**  
