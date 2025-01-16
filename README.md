@@ -60,7 +60,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanda050&show_icons=true&locale=en" alt="juanda050" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanda050&show_icons=true&locale=en&layout=compact" alt="juanda050" width="48%" />
-</p>
+<div style="display: flex; justify-content: space-between; text-align: justify;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juanda050&theme=github_dark" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juanda050&theme=github_dark" width="48%">
+</div>
+
