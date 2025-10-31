@@ -9,7 +9,6 @@
 
 ### 🌟 About Me
 - 🎓 **Student and aspiring Fullstack Web & Mobile Developer**  
-- 🔭 Working on **Expert System for Laptop Damage Diagnosis (Dempster-Shafer Method)**  
 - 🌱 Currently learning **TypeScript, React, Next.js, Expo React Native, and Supabase**  
 - 💻 Exploring **modern development stacks** including Node.js, Laravel, and database solutions like **Supabase, PostgreSQL, and MongoDB**  
 - 🚀 Passionate about building intuitive, scalable, and **cross-platform** applications  
