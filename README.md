@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Web & Mobile Developer | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juanda050&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=juand4devz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -66,6 +66,6 @@
 
 ### 📊 GitHub Stats
 <div style="display: flex; justify-content: space-between; text-align: justify;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juanda050&theme=github_dark" width="48%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juanda050&theme=github_dark" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juand4devz&theme=github_dark" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juand4devz&theme=github_dark" width="48%">
 </div>
